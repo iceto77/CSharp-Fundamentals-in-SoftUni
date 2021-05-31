@@ -1,0 +1,16 @@
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.exe
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.deps.json
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.json
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.runtimeconfig.dev.json
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\ref\02. From Left to The Right.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\bin\Debug\net5.0\02. From Left to The Right.pdb
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csproj.AssemblyReference.cache
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfoInputs.cache
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.AssemblyInfo.cs
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.csproj.CoreCompileInputs.cache
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\ref\02. From Left to The Right.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.pdb
+C:\Users\iceto\source\repos\C# Fundamentals\Data Types and Variables - More Exercise\02. From Left to The Right\obj\Debug\net5.0\02. From Left to The Right.genruntimeconfig.cache
