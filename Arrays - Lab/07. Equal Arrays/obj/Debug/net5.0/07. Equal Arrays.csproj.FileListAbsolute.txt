@@ -1,0 +1,15 @@
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfo.cs
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.exe
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.deps.json
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.json
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.dev.json
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\ref\07. Equal Arrays.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.pdb
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\ref\07. Equal Arrays.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.pdb
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Lab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.genruntimeconfig.cache
