@@ -1,0 +1,16 @@
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.exe
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.deps.json
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.json
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.dev.json
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\ref\01. Train.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\bin\Debug\net5.0\01. Train.pdb
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.AssemblyReference.cache
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfoInputs.cache
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfo.cs
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.csproj.CoreCompileInputs.cache
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\ref\01. Train.dll
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.pdb
+C:\Users\iceto\source\repos\C# Fundamentals\Arrays - Exercise\01. Train\obj\Debug\net5.0\01. Train.genruntimeconfig.cache
